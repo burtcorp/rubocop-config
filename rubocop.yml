@@ -31,6 +31,9 @@ Style/FrozenStringLiteralComment:
 Style/TrailingCommaInArguments:
   EnforcedStyleForMultiline: consistent_comma
 
+Style/Lambda:
+  Enabled: false
+
 Layout/IndentationWidth:
   Enabled: false
 
