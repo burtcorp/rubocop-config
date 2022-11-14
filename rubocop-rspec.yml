@@ -17,3 +17,8 @@ RSpec/MultipleExpectations:
 
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
+
+RSpec/ContextWording:
+  Prefixes:
+    - when
+    - and
