@@ -76,6 +76,9 @@ Layout/MultilineMethodArgumentLineBreaks:
 Layout/MultilineMethodParameterLineBreaks:
   Enabled: true
 
+Layout/LineLength:
+  IgnoredPatterns: ['^ *def']
+
 Metrics/ParameterLists:
   Enabled: false
 
