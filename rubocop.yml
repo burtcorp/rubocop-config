@@ -64,6 +64,21 @@ Layout/AccessModifierIndentation:
 Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 
+Layout/MultilineArrayLineBreaks:
+  Enabled: true
+
+Layout/MultilineHashKeyLineBreaks:
+  Enabled: true
+
+Layout/MultilineMethodArgumentLineBreaks:
+  Enabled: true
+
+Layout/MultilineMethodParameterLineBreaks:
+  Enabled: true
+
+Layout/LineLength:
+  IgnoredPatterns: ['^ *def']
+
 Metrics/ParameterLists:
   Enabled: false
 
