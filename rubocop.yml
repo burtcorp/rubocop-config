@@ -79,6 +79,18 @@ Layout/MultilineMethodParameterLineBreaks:
 Layout/LineLength:
   IgnoredPatterns: ['^ *def']
 
+Layout/FirstArrayElementLineBreak:
+  Enabled: true
+
+Layout/FirstHashElementLineBreak:
+  Enabled: true
+
+Layout/FirstMethodArgumentLineBreak:
+  Enabled: true
+
+Layout/FirstMethodParameterLineBreak:
+  Enabled: true
+
 Metrics/ParameterLists:
   Enabled: false
 
