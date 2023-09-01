@@ -110,4 +110,4 @@ Metrics/MethodLength:
   Enabled: false
 
 Naming/VariableNumber:
-  EnforcedStyle: snake_case
+  Enabled: false
