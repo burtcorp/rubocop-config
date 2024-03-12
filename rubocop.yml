@@ -34,6 +34,9 @@ Style/TrailingCommaInArguments:
 Style/Lambda:
   Enabled: false
 
+Style/HashSyntax:
+  EnforcedShorthandSyntax: never
+
 Layout/IndentationWidth:
   Enabled: false
 
