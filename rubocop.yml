@@ -80,7 +80,7 @@ Layout/MultilineMethodParameterLineBreaks:
   Enabled: true
 
 Layout/LineLength:
-  IgnoredPatterns: ['^ *def']
+  AllowedPatterns: ['^ *def']
 
 Layout/FirstArrayElementLineBreak:
   Enabled: true
