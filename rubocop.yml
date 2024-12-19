@@ -120,3 +120,6 @@ Metrics/MethodLength:
 
 Naming/VariableNumber:
   Enabled: false
+
+Layout/CaseIndentation:
+  EnforcedStyle: end
