@@ -37,6 +37,9 @@ Style/Lambda:
 Style/HashSyntax:
   EnforcedShorthandSyntax: never
 
+Layout/CaseIndentation:
+  EnforcedStyle: end
+
 Layout/IndentationWidth:
   Enabled: false
 
